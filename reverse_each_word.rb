@@ -3,4 +3,3 @@ def reverse_each_word(sentence)
   newer_sentence = new_sentence{|word| a.reverse}
   newer_sentence.join(" ")
 end
-end
